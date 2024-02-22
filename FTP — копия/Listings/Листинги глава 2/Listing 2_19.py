@@ -1,0 +1,6 @@
+my_cat = Cat('Белая', 'Зеленые', 'Мурка')
+print("Наименование класса - ", my_cat.Name_Class)
+print("Вот наша кошка:")
+print("Цвет шерсти- ", my_cat.wool_color)
+print("Цвет глаз- ", my_cat.eyes_color)
+print("Кличка- ", my_cat.name)
